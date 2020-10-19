@@ -1,2 +1,2 @@
-# Tribute-Page
-# This is a challenge from freecodecamp successfully acomplished
+# Tribute-Page for Three's Company, a comedy tv series
+# challenge from freecodecamp
